@@ -36,6 +36,6 @@ $ node start
 
 Ready to Deploy
 inside the demo-application folder there are two hidder files .git and .gitignore
-reinitialise git (in the demo application folder) useing: 
+reinitialise git (in the demo application folder) using: 
 git init .
 
